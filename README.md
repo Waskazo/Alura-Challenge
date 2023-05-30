@@ -77,8 +77,3 @@ Si el usuario hace clic en Descifrar, sin ningún mensaje, aparece una Alerta in
 Tampoco era obligatorio dejar el layout responsive, pero como estoy en fase de aprendizaje, aproveché para poner a prueba los conocimientos adquiridos hasta el momento.
 
 <img src="readme_img/nueve.png" alt="exemplo imagem">
-
-<img src="readme_img/diez.png" alt="exemplo imagem">
-
-
-
